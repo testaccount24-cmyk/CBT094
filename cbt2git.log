@@ -1,0 +1,62 @@
+2025-04-04 03:15:09.157504 - Received CBT.V508.FILE094.PDS from FILE094.XMI 
+2025-04-04 03:15:09.159134 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$$$#DATE
+2025-04-04 03:15:09.159287 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$$NOTE1
+2025-04-04 03:15:09.159426 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$$NOTE2
+2025-04-04 03:15:09.159555 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$$NOTE3
+2025-04-04 03:15:09.159878 - Found $COMMON.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$COMMON
+2025-04-04 03:15:09.160066 - Found $COMM142.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$COMM142
+2025-04-04 03:15:09.160234 - Found $COMM143.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$COMM143
+2025-04-04 03:15:09.160389 - Found $COMM144.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$COMM144
+2025-04-04 03:15:09.160544 - Found $COMM145.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$COMM145
+2025-04-04 03:15:09.160699 - Found $COMM146.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$COMM146
+2025-04-04 03:15:09.160853 - Found $COMM147.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$COMM147
+2025-04-04 03:15:09.161004 - Found $COMM148.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$COMM148
+2025-04-04 03:15:09.161143 - Found $DAFJCL.jcl (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$DAFJCL
+2025-04-04 03:15:09.161289 - Found $DAFNOTE.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$DAFNOTE
+2025-04-04 03:15:09.161414 - Found $ODAFDOC.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/$ODAFDOC
+2025-04-04 03:15:09.161574 - Found @FILE094.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/@FILE094
+2025-04-04 03:15:09.162027 - Found DAF.jcl (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/DAF
+2025-04-04 03:15:09.162223 - Found DAFPLI.txt (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/DAFPLI
+2025-04-04 03:15:09.162723 - Found DAF130.jcl (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/DAF130
+2025-04-04 03:15:09.162911 - Found DAF130L.xmi (application/xmit) in CBT.V508.FILE094.PDS, moved to PDS/DAF130L.xmi
+2025-04-04 03:15:09.174805 - Received SBGOLOB.DAF130.LOADLIB from DAF130L.xmi 
+2025-04-04 03:15:09.175167 - Found DAF.bin (application/octet-stream) in SBGOLOB.DAF130.LOADLIB, moved to DAF130L/DAF
+2025-04-04 03:15:09.175632 - Found DAF140.jcl (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/DAF140
+2025-04-04 03:15:09.175797 - Found DAF140L.xmi (application/xmit) in CBT.V508.FILE094.PDS, moved to PDS/DAF140L.xmi
+2025-04-04 03:15:09.187418 - Received SBGOLOB.DAF140.LOAD from DAF140L.xmi 
+2025-04-04 03:15:09.187782 - Found DAF140.bin (application/octet-stream) in SBGOLOB.DAF140.LOAD, moved to DAF140L/DAF140
+2025-04-04 03:15:09.188212 - Found DAF142.jcl (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/DAF142
+2025-04-04 03:15:09.188369 - Found DAF142L.xmi (application/xmit) in CBT.V508.FILE094.PDS, moved to PDS/DAF142L.xmi
+2025-04-04 03:15:09.200886 - Received SBGOLOB.DAF142.LINKLIB from DAF142L.xmi 
+2025-04-04 03:15:09.201143 - Found alias DAF to DAF142 in SBGOLOB.DAF142.LINKLIB, moved to PDS/DAF
+2025-04-04 03:15:09.201308 - Found DAF142.bin (application/octet-stream) in SBGOLOB.DAF142.LINKLIB, moved to DAF142L/DAF142
+2025-04-04 03:15:09.201724 - Found DAF143.jcl (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/DAF143
+2025-04-04 03:15:09.201884 - Found DAF143L.xmi (application/xmit) in CBT.V508.FILE094.PDS, moved to PDS/DAF143L.xmi
+2025-04-04 03:15:09.215023 - Received SBGOLOB.DAF143.LINKLIB from DAF143L.xmi 
+2025-04-04 03:15:09.215387 - Found DAF.bin (application/octet-stream) in SBGOLOB.DAF143.LINKLIB, moved to DAF143L/DAF
+2025-04-04 03:15:09.215797 - Found DAF144.jcl (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/DAF144
+2025-04-04 03:15:09.215962 - Found DAF144L.xmi (application/xmit) in CBT.V508.FILE094.PDS, moved to PDS/DAF144L.xmi
+2025-04-04 03:15:09.233303 - Received SBGOLOB.DAF144.LINKLIB from DAF144L.xmi 
+2025-04-04 03:15:09.233662 - Found DAF.bin (application/octet-stream) in SBGOLOB.DAF144.LINKLIB, moved to DAF144L/DAF
+2025-04-04 03:15:09.234130 - Found DAF145.jcl (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/DAF145
+2025-04-04 03:15:09.234306 - Found DAF145L.xmi (application/xmit) in CBT.V508.FILE094.PDS, moved to PDS/DAF145L.xmi
+2025-04-04 03:15:09.252414 - Received SBGOLOB.DAF145.LINKLIB from DAF145L.xmi 
+2025-04-04 03:15:09.253065 - Found DAF.bin (application/octet-stream) in SBGOLOB.DAF145.LINKLIB, moved to DAF145L/DAF
+2025-04-04 03:15:09.254017 - Found DAF146.jcl (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/DAF146
+2025-04-04 03:15:09.254237 - Found DAF146L.xmi (application/xmit) in CBT.V508.FILE094.PDS, moved to PDS/DAF146L.xmi
+2025-04-04 03:15:09.274338 - Received SBGOLOB.DAF146.LINKLIB from DAF146L.xmi 
+2025-04-04 03:15:09.274850 - Found DAF.bin (application/octet-stream) in SBGOLOB.DAF146.LINKLIB, moved to DAF146L/DAF
+2025-04-04 03:15:09.275489 - Found DAF147.jcl (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/DAF147
+2025-04-04 03:15:09.275675 - Found DAF147L.xmi (application/xmit) in CBT.V508.FILE094.PDS, moved to PDS/DAF147L.xmi
+2025-04-04 03:15:09.295918 - Received SBGOLOB.DAF147.LINKLIB from DAF147L.xmi 
+2025-04-04 03:15:09.296285 - Found DAF.bin (application/octet-stream) in SBGOLOB.DAF147.LINKLIB, moved to DAF147L/DAF
+2025-04-04 03:15:09.296768 - Found DAF148.jcl (text/plain) in CBT.V508.FILE094.PDS, moved to PDS/DAF148
+2025-04-04 03:15:09.297176 - Found DAF148L.xmi (application/xmit) in CBT.V508.FILE094.PDS, moved to PDS/DAF148L.xmi
+2025-04-04 03:15:09.320819 - Received SBGOLOB.DAF148.LINKLIB from DAF148L.xmi 
+2025-04-04 03:15:09.321208 - Found DAF.bin (application/octet-stream) in SBGOLOB.DAF148.LINKLIB, moved to DAF148L/DAF
+2025-04-04 03:15:09.321583 - Found DAF148NL.xmi (application/xmit) in CBT.V508.FILE094.PDS, moved to PDS/DAF148NL.xmi
+2025-04-04 03:15:09.345018 - Received SBGOLOB.DAF148N.LINKLIB from DAF148NL.xmi 
+2025-04-04 03:15:09.345411 - Found DAF.bin (application/octet-stream) in SBGOLOB.DAF148N.LINKLIB, moved to DAF148NL/DAF
+2025-04-04 03:15:09.345846 - Found DAF149L.xmi (application/xmit) in CBT.V508.FILE094.PDS, moved to PDS/DAF149L.xmi
+2025-04-04 03:15:09.369258 - Received SBGOLOB.DAF149.LINKLIB from DAF149L.xmi 
+2025-04-04 03:15:09.369645 - Found DAF.bin (application/octet-stream) in SBGOLOB.DAF149.LINKLIB, moved to DAF149L/DAF
